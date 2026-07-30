@@ -1,0 +1,20 @@
+{
+  "name": "expense-tracker",
+  "version": "1.0.0",
+  "description": "A full-stack expense tracker built with Node.js and Express, featuring categories, search/filter/sort, a live dashboard, and CSV export.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["expense-tracker", "express", "nodejs"],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
